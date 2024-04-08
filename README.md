@@ -6,11 +6,11 @@ Blogging Website </H1>
 
 
 ## Overview of website
-#### Home Page
+#### HOME PAGE
 ![image](https://github.com/shraddha1201/Blog-Website/assets/93818933/5ae9f31d-d7f1-4eea-ab41-ab4f8ab85bd4)
 
-#### Published Post
+#### PUBLISHED POST
 ![image](https://github.com/shraddha1201/Blog-Website/assets/93818933/f39e4474-f3c1-4cbc-9d54-3bfc1f7b9c30)
 
-#### Create New Post
+#### CREATE NEW POST
 ![image](https://github.com/shraddha1201/Blog-Website/assets/93818933/b92910c0-cdec-456a-ad8c-1405204a2671)

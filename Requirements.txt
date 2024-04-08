@@ -1,0 +1,12 @@
+Requirements:
+react
+react-router-dom
+express
+nodemon
+cors
+mongoose(powerful db library): to contect with database
+becryptjs: for hashing
+jsonwebtoken: for web token(cookies) if logged in
+cookie-parser: to able to read cookie
+multer: to save img file to folder "uploads"
+date-fns: for formating date
